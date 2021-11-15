@@ -26,7 +26,7 @@ Array.prototype.max = function() {
 	return c
   }
   
-  export const kriging = (function() {
+const kriging = (function() {
 	var kriging_ = {}
   
 	// Matrix algebra
